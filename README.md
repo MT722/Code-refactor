@@ -16,19 +16,17 @@ VScode[https://code.visualstudio.com/]
 Google.com
 
 
-## Usage 
+## Code Snippets
 
-
-
+<a href = "./Develop/assets/images/Screenshot-81.png">
+<a href = "./Develop/assets/images/Screenshot-81.png">
+<a href = "./Develop/assets/images/Screenshot-81.png">
 
 ## Author(s)
 
 Matthew To(Me)
 
 
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 
 
